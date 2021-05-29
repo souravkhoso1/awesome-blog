@@ -1,0 +1,4 @@
+Django
+pytz
+sqlparse
+gunicorn
