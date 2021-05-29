@@ -2,3 +2,4 @@ Django
 pytz
 sqlparse
 gunicorn
+whitenoise
