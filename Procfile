@@ -1,1 +1,1 @@
-web: gunicorn awesoomeblog.wsgi --log-file
+web: gunicorn awesoomeblog.wsgi --log-file -
